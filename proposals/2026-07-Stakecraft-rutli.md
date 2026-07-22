@@ -236,9 +236,9 @@ Upon milestone releases, Stakecraft will collaborate with the Canton Foundation 
 ## Team & Stewardship
 
 - **Organization:** Stakecraft — Canton Network infrastructure operator.
-- **Repository:** [https://github.com/Stakecraft/rutli](https://github.com/Stakecraft/rutli) (public, Apache-2.0).
+- **Repository:** [https://github.com/Stakecraft/rutli](https://github.com/Stakecraft/rutli) (Apache-2.0). The repo is **private during proposal review** and will be made **public under Apache-2.0 at Milestone 1 acceptance** (or earlier if the Committee prefers visibility during review — read access can be granted to champions / Tech & Ops on request).
 - **Maintenance:** Stakecraft commits to maintain Rütli for a minimum of **12 months after M1 acceptance**, including security patches, Canton/Splice version tracking on the declared support matrix, and responsive handling of vulnerability reports via GitHub Security Advisories.
-- **Disclosure:** [SECURITY.md](https://github.com/Stakecraft/rutli/blob/main/SECURITY.md) private reporting path.
+- **Disclosure:** `SECURITY.md` private reporting path (in-repo).
 
 ---
 
